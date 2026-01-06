@@ -29,6 +29,7 @@
 | ------- |
 | [0027-remove-element](https://github.com/summaiya170/leetcode_excercise/tree/master/0027-remove-element) |
 | [0035-search-insert-position](https://github.com/summaiya170/leetcode_excercise/tree/master/0035-search-insert-position) |
+| [0217-contains-duplicate](https://github.com/summaiya170/leetcode_excercise/tree/master/0217-contains-duplicate) |
 ## Two Pointers
 |  |
 | ------- |
@@ -37,4 +38,12 @@
 |  |
 | ------- |
 | [0035-search-insert-position](https://github.com/summaiya170/leetcode_excercise/tree/master/0035-search-insert-position) |
+## Hash Table
+|  |
+| ------- |
+| [0217-contains-duplicate](https://github.com/summaiya170/leetcode_excercise/tree/master/0217-contains-duplicate) |
+## Sorting
+|  |
+| ------- |
+| [0217-contains-duplicate](https://github.com/summaiya170/leetcode_excercise/tree/master/0217-contains-duplicate) |
 <!---LeetCode Topics End-->
