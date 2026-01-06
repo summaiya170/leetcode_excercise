@@ -24,4 +24,12 @@
 |  |
 | ------- |
 | [0969-number-of-recent-calls](https://github.com/summaiya170/leetcode_excercise/tree/master/0969-number-of-recent-calls) |
+## Array
+|  |
+| ------- |
+| [0027-remove-element](https://github.com/summaiya170/leetcode_excercise/tree/master/0027-remove-element) |
+## Two Pointers
+|  |
+| ------- |
+| [0027-remove-element](https://github.com/summaiya170/leetcode_excercise/tree/master/0027-remove-element) |
 <!---LeetCode Topics End-->
